@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619186394 source:c:\users\costangy\desktop\teo projects\minheap\main.cpp
+	<iostream>
+	<fstream>
+	<climits>
+
